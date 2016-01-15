@@ -1,0 +1,28 @@
+div.center {
+  position: fixed;
+  top: 0%;
+  left: 50%;
+  margin-top: 0px;
+  margin-left: -300px;
+}
+
+.right { 
+  float: left; 
+  margin-top:-100px;
+  margin-left:-150px;
+  } 
+  
+ul{
+     line-height: 0.5em;
+     list-style-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4621/treehouse-marker.png);
+ } 
+ 
+ ul2{
+     line-height: 4.0em;
+ } 
+ 
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100%;
+  -webkit-font-smoothing: antialiased;
+}
